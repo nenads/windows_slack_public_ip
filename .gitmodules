@@ -1,0 +1,3 @@
+[submodule "PSSlack"]
+	path = PSSlack
+	url = https://github.com/RamblingCookieMonster/PSSlack.git
